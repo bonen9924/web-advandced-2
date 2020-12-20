@@ -1,0 +1,9 @@
+.ex2{
+    background-color: aqua;
+    height: 300px;
+    width: 400px;
+}
+
+.ex2:hover{
+    background-color: red;
+}
